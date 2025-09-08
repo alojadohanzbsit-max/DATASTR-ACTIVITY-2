@@ -1,5 +1,3 @@
-# DATASTR-ACTIVITY-2
-
 #include <iostream>
 #include <string>
 using namespace std;
@@ -24,4 +22,5 @@ int main() {
     cout << "My Birthday is on " << birthday << ". and my motto/motivation in life is " << motto << endl;
 
     return 0;
+
 }
